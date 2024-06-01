@@ -1,9 +1,7 @@
-## Constitution du Groupe
+# Projet Rattrapage
 
-Notre groupe est constitué de Taissir, une personne réelle, 
-et Hayat, une personne fictive. Taissir s'occupe de la gestion
-du dépôt Git et de la mise en forme, tandis que Hayat se concentre 
-sur la création du plan d'action détaillé dans un fichier Word.
+Ce projet est réalisé par Taissir et Hayat dans le cadre de Gestion de projet.
 
-
-ajout du fichier README.md
+## Structure du projet
+- `Groupe.md` : Composition et rôles du groupe.
+- `README.md` : Description du projet.
