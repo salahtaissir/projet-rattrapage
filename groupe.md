@@ -1,4 +1,3 @@
-# projet-rattrapage
 # Groupe de Projet
 
 ## Membres du groupe
